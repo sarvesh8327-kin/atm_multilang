@@ -16,7 +16,7 @@
 #include <map>
 
 // ── Constants ─────────────────────────────────────────────────────────────────
-const double INITIAL_BALANCE  = 5000.0;
+const double INITIAL_BALANCE  = 5000.0;  // Balance avail
 const int    ACCOUNT_PIN      = 1234;
 const int    MAX_PIN_ATTEMPTS = 3;
 const std::string CURRENCY    = "₹";   // Indian Rupee symbol (UTF-8)
