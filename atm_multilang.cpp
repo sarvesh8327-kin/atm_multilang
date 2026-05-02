@@ -2,7 +2,7 @@
  * ATM Simulator — multi-language edition
  * Supported languages: English (default), Hindi, Tamil, Telugu
  * Currency: Indian Rupee (₹)
- *
+ */
  * Requires a UTF-8 terminal to display Hindi / Tamil / Telugu strings correctly.
  * On Windows: run  `chcp 65001`  in the console before executing.
 /*/
