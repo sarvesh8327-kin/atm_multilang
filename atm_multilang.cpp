@@ -5,7 +5,7 @@
  */
  * Requires a UTF-8 terminal to display Hindi / Tamil / Telugu strings correctly.
  * On Windows: run  `chcp 65001`  in the console before executing.
-/*/
+/*//
 
 #include <iostream>
 #include <iomanip>
